@@ -1,0 +1,129 @@
+{
+  "format": "research-studio-public-delivery-v1",
+  "snapshotDate": "2026-10-16",
+  "siteRelease": 30,
+  "sourceCommit": "d3276551318534ea33a8120dcfc1528ca83fe7c8",
+  "scope": "Workflow specifications, product manual, release notes, public-source research short drafts, upload guide",
+  "researchStatus": "Historical reviewed-report derivatives; not a new v30 model generation or completed investment diligence",
+  "newPaidModelRuns": 0,
+  "containsInternalOriginals": false,
+  "containsNeiOriginals": false,
+  "containsCredentials": false,
+  "checks": [
+    "Allowlisted source export",
+    "Exact private credential value scan",
+    "Secret-pattern scan",
+    "Manual content/provenance review",
+    "ZIP integrity"
+  ],
+  "fileCount": 22,
+  "indexedFiles": 21,
+  "files": [
+    {
+      "path": "DELIVERY-GUIDE.md",
+      "bytes": 4539,
+      "sha256": "d5d6037a158d23c580851f4b87933bd4c933579cde28750a379488bc1101a692"
+    },
+    {
+      "path": "NOTICE.md",
+      "bytes": 687,
+      "sha256": "fe820716f81391cf6217ed2241cbc0a6dadf73a0df4abe7550670917dc243764"
+    },
+    {
+      "path": "README.md",
+      "bytes": 10435,
+      "sha256": "e62a9d152649d8871b755fe5f92add224e79a8f13c2fab6609a039c55e743401"
+    },
+    {
+      "path": "UPLOAD-TO-GITHUB.md",
+      "bytes": 3501,
+      "sha256": "517862068ecb8a4fd6392a5089f5caf1a46e31e2b2cb447b3db8a50fbe79570d"
+    },
+    {
+      "path": "docs/CHANGELOG.md",
+      "bytes": 20043,
+      "sha256": "2fb43d48ca58bc028956685865f5ea72dc4d98387baeecb5a67b3ce7b2a383b9"
+    },
+    {
+      "path": "docs/NEXT-ITERATION.md",
+      "bytes": 7795,
+      "sha256": "de68bde6dfa03db208572fe5b19f9ed21c6bd478d221f3229906b95e67373cb3"
+    },
+    {
+      "path": "docs/PRODUCT-MANUAL.md",
+      "bytes": 26047,
+      "sha256": "fb3884a25ebf8e8aaff0a12d9bbc4c376a07c93aed9d5f92fea359a180a0305f"
+    },
+    {
+      "path": "research/PROVENANCE.md",
+      "bytes": 3133,
+      "sha256": "ac5d1b2dd517739ee08377c29e93b64a7d2176fd600f287ff04bd0b3e05b6e13"
+    },
+    {
+      "path": "research/README.md",
+      "bytes": 1822,
+      "sha256": "ebac086d1ef525ca925172693283a31356f3a2e6592040ada3bb3127eb78d957"
+    },
+    {
+      "path": "research/dexterous-hands.md",
+      "bytes": 4549,
+      "sha256": "e2f99fd0d425a4cbd2ff205d2453c5f2aa5e5bfc23beb59749bc81ffd8c85e4e"
+    },
+    {
+      "path": "research/electronic-skin.md",
+      "bytes": 4183,
+      "sha256": "f28346caf3dc362b81c46d0e04db4ab142492407b58dfa2fb7cf08abb7b2d75f"
+    },
+    {
+      "path": "research/rsi.md",
+      "bytes": 4148,
+      "sha256": "5b48d65f94f183c585f439f75c9c3592186dde3d496afd4cdd03b939dc8cef50"
+    },
+    {
+      "path": "research/sources.md",
+      "bytes": 2997,
+      "sha256": "f824e606e0e67770a3a59df6869af8572e28f518d033615649830a6bd36f2d79"
+    },
+    {
+      "path": "research/world-models.md",
+      "bytes": 4410,
+      "sha256": "d921e0e8f56ec7845d1345e2d34110a610291eb0fb13608b7d2cdcd8f0c03885"
+    },
+    {
+      "path": "skills/README.md",
+      "bytes": 690,
+      "sha256": "578d6a19d4069ef229b6be33b6a38fdc4a542584ff35973c2824308aa5cbf3c1"
+    },
+    {
+      "path": "skills/benchmark.md",
+      "bytes": 18945,
+      "sha256": "7f1b0ce9331ec3ab023bb2470e4972cff894e8c2e934b7d64989debfabdf3853"
+    },
+    {
+      "path": "skills/evaluation.md",
+      "bytes": 17259,
+      "sha256": "3dff84559ed854f9a9ab2358dca309e13f5da5692f8462e59016b7659014851f"
+    },
+    {
+      "path": "skills/handbook.md",
+      "bytes": 17071,
+      "sha256": "e145a2f1a22df47af6319183300f1fe41245dca324d3e17f1dbecd5043350153"
+    },
+    {
+      "path": "skills/market-research-plan.md",
+      "bytes": 59438,
+      "sha256": "4466312f1d5c0cc4cfc086ab4c833eb3347f9b1da67bd27051550718ec3083de"
+    },
+    {
+      "path": "skills/market.md",
+      "bytes": 32048,
+      "sha256": "f2b9ac19544b732e850a7950f1acd49ba1f463f83e36d6b4ad5f83b525389737"
+    },
+    {
+      "path": "skills/research-delivery-policy.md",
+      "bytes": 17379,
+      "sha256": "427b3595997955d1ad9ebd48795bbc5656d5d02fb261054dfdee4ca5ad6f6cc0"
+    }
+  ],
+  "documentationRevision": "2026-10-16-user-manual-v2"
+}
