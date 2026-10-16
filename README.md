@@ -1,5 +1,5 @@
 # Research Studio · 网站介绍与使用手册
-
+测试网址: https://research-studio.fast-leaf-1928.chatgpt.site/#w=30ebfc6f-c6e8-4a05-9141-6370150d77a3&key=7a93e4802c86d07edd014acb8cc12f0147e17fd3658c8bac97ba2ef273176f59
 Research Studio 是供投研团队共同使用的研究平台。你可以上传资料、开展行业和公司研究、与同事讨论报告，并把有用的成果保存在行业知识库中，供下一次研究参考。
 
 这份手册面向日常使用平台的同事：从哪里开始、不同功能用来做什么，以及如何找到自己的资料和报告。
